@@ -1,0 +1,5 @@
+- Hi, I’m @chowdhurysuman
+- I’m interested in AI and its applications in Healthcare and Robotics.
+- I’m currently pursuing Integrated PhD (IDDP) in Mechatronics and Artificial Intelligence from AcSIR, India at CSIR-CMERI National Laboratory
+- I’m looking to collaborate on ML, DL, and AI
+- Reach me at: suman.cmeri21a@acsir.res.in
