@@ -1,6 +1,6 @@
-- Hi, I’m @sumanchowdhurykgp
-- I'm interested in theoretical machine learning (ML) and its applications in computer vision (CV)
-- I’m interested in AI and its applications in Healthcare and Robotics.
-- I’m currently pursuing Integrated PhD (M.Tech + PhD) in Mechatronics, Computer Vision, and Machine Learning from AcSIR, India at CSIR-CMERI National Laboratory
-- I’m looking to collaborate on CV and ML.
+- Hi, I’m Suman Chowdhury
+- I work on computer vision for autonomous vehicles
+- I’m interested in multi-label classification, scene graphs, road scene understanding
+- I’m currently pursuing an Integrated PhD (M.Tech + PhD) in Mechatronics, Computer Vision, and Machine Learning from AcSIR, India at CSIR-CMERI National Laboratory
+- I’m open to collaborations in my interest areas.
 - Reach me at: chowdhurysuman.cmeri@gmail.com
