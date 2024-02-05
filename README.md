@@ -1,6 +1,6 @@
 - Hi, I’m Suman Chowdhury
 - I work on computer vision for autonomous vehicles
 - I’m interested in multi-label classification, scene graphs, road scene understanding
-- I’m currently pursuing an Integrated PhD (M.Tech + PhD) in Mechatronics, Computer Vision, and Machine Learning from AcSIR, India at CSIR-CMERI National Laboratory
+- I’m currently pursuing an Integrated PhD (M.Tech + PhD) in Mechatronics and Computer Vision from AcSIR, India at CSIR-CMERI National Laboratory
 - I’m open to collaborations in my interest areas.
 - Reach me at: chowdhurysuman.cmeri@gmail.com
